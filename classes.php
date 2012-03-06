@@ -4,4 +4,7 @@
 		public function addNumbers($one, $two){
 			return $one + $two;
 		}
+		public function sumNumbers($one, $two){
+			return $one * $two;
+		}
 	}
